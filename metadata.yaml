@@ -1,0 +1,46 @@
+_repo: Teatro-selecto-tomo-4-de-4_63328
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Menéndez y Pelayo, Marcelino
+    aliases:
+    - Pelayo, Marcelino Menendez y
+    - Pelayo, Marcelino Menéndez y
+    birthdate: 1856
+    deathdate: 1912
+    gutenberg_agent_id: '47265'
+    url: http://www.gutenberg.org/2009/agents/47265
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo
+    - https://en.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_y_Pelayo
+creator:
+  author:
+    agent_name: Calderón de la Barca, Pedro
+    aliases:
+    - Barca, Pedro Calderón de la
+    - Calderon de la Barca, Pedro
+    birthdate: 1600
+    deathdate: 1681
+    gutenberg_agent_id: '970'
+    url: http://www.gutenberg.org/2009/agents/970
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
+    - https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca
+description: ''
+gutenberg_issued: '2020-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63328'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish drama -- Classical period, 1500-1700'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Comedias: No Siempre lo peor es cierto. Guárdate del agua mansa
+  -- Zarzuelas: El laurel de Apolo. La púrpura de la rosa -- Autos sacramentales:
+  La cena del rey Baltasar. La vida es sueño. A Dios por razon de Estado.'
+title: Teatro selecto, tomo 4 de 4
+url: http://www.gutenberg.org/ebooks/63328
