@@ -1,5 +1,5 @@
 _repo: Teatro-selecto-tomo-4-de-4_63328
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Menéndez y Pelayo, Marcelino
@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo
     - https://en.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_y_Pelayo
+covers:
+- cover_type: archival
+  image_path: 63328-h/images/cover.jpg
 creator:
   author:
     agent_name: Calderón de la Barca, Pedro
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
     - https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63328#Teatro-selecto-tomo-4-de-4
 gutenberg_issued: '2020-09-28'
 gutenberg_type: Text
 identifiers:
